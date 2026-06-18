@@ -5,12 +5,12 @@ const projectsData = [
     projectLists: [
       {
         projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1719215846/Portfolio-Website/project-4_vw4gce.png",
-        projectLink: "https://mern-crud-app-m.vercel.app/",
+          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1781771244/Portfolio-Website/Screenshot_2026-06-18_134627_uhfk6k.png",
+        projectLink: "https://crm-whatsapp-billing.vercel.app/",
         technology: [
-          "React Js",
+          "NextJs",
           "Tailwind CSS",
-          "MongoDb",
+          "PostgreSQL",
           "Node Js",
           "Express",
           "Routing",
@@ -18,61 +18,26 @@ const projectsData = [
           "Authorization",
           "Authentication",
         ],
-        sourceCode:
-          "https://github.com/Manii1997/MERN-CRUD-App-with-Login-Logout",
+        
       },
       {
         projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1717760176/Portfolio-Website/project-2_xtc8pt.png",
-        projectLink: "https://crud-next-app-m.vercel.app/",
-        technology: ["Next Js", "Tailwind CSS", "Local Storage"],
-        sourceCode: "https://github.com/Manii1997/crud-next-app",
-      },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1717760176/Portfolio-Website/project-1_bi5uzs.png",
-        projectLink: "https://nxttrendzappm.ccbp.tech/",
+          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1781771244/Portfolio-Website/Screenshot_2026-06-18_135634_a5ruhl.png",
+        projectLink: "https://timeout-frontend.vercel.app/",
         technology: [
-          "React Js",
-          "JavaScript",
-          "CSS",
-          "Bootstrap",
+          "NextJs",
+          "Tailwind CSS",
+          "PostgreSQL",
+          "Node Js",
+          "Express",
           "Routing",
-          "Local Storage",
           "JWT Token",
           "Authorization",
           "Authentication",
         ],
-        sourceCode: "https://github.com/Manii1997/NxtTrendz",
-        userCredentials: {
-          primeUser: {
-            username: "rahul",
-            password: "rahul@2021",
-          },
-          user: {
-            username: "raja",
-            password: "raja@2021",
-          },
-        },
+        
       },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1717825591/Portfolio-Website/project-3_kcycbw.png",
-        projectLink: "https://rrapp.ccbp.tech/",
-        technology: [
-          "React Js",
-          "Authentication",
-          "React Router",
-          "JWT (JSON Web Tokens)",
-        ],
-        sourceCode: "https://github.com/Manii1997/crud-next-app",
-        userCredentials: {
-          user: {
-            username: "rahul",
-            password: "rahul@2021",
-          },
-        },
-      },
+   
     ],
   },
   {
@@ -91,12 +56,12 @@ const projectsData = [
         projectLink: "https://southernholidays.net/",
         technology: ["WordPress", "Elementor"],
       },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085991/Portfolio-Website/wp-3_uuuuzg.png",
-        projectLink: "https://abutoursandtravels.com/",
-        technology: ["WordPress", "Elementor"],
-      },
+      // {
+      //   projectImg:
+      //     "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085991/Portfolio-Website/wp-3_uuuuzg.png",
+      //   projectLink: "https://abutoursandtravels.com/",
+      //   technology: ["WordPress", "Elementor"],
+      // },
       {
         projectImg:
           "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085991/Portfolio-Website/wp-4_jiq78l.png",
@@ -115,42 +80,42 @@ const projectsData = [
         projectLink: "https://neotravelmart.com/",
         technology: ["WordPress", "Elementor"],
       },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718086176/Portfolio-Website/wp-8_njdyfi.png",
-        projectLink: "https://thanyaas.com/",
-        technology: ["WordPress", "Elementor"],
-      },
+      // {
+      //   projectImg:
+      //     "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718086176/Portfolio-Website/wp-8_njdyfi.png",
+      //   projectLink: "https://thanyaas.com/",
+      //   technology: ["WordPress", "Elementor"],
+      // },
       {
         projectImg:
           "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-9_k5fjzo.png",
         projectLink: "https://tcda.in/",
         technology: ["WordPress", "Elementor"],
       },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-10_wvfpnt.png",
-        projectLink: "https://jprexports.com/",
-        technology: ["WordPress", "Elementor"],
-      },
+      // {
+      //   projectImg:
+      //     "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-10_wvfpnt.png",
+      //   projectLink: "https://jprexports.com/",
+      //   technology: ["WordPress", "Elementor"],
+      // },
       {
         projectImg:
           "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085990/Portfolio-Website/wp-11_rkhktd.png",
         projectLink: "https://sihrsjo.in/",
         technology: ["WordPress", "Elementor"],
       },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718086096/Portfolio-Website/wp-12_zpqwz3.png",
-        projectLink: "https://todosolution.net/",
-        technology: ["WordPress", "Elementor"],
-      },
-      {
-        projectImg:
-          "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-13_upc4ko.png",
-        projectLink: "https://prinscafe.com/",
-        technology: ["WordPress", "Elementor"],
-      },
+      // {
+      //   projectImg:
+      //     "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718086096/Portfolio-Website/wp-12_zpqwz3.png",
+      //   projectLink: "https://todosolution.net/",
+      //   technology: ["WordPress", "Elementor"],
+      // },
+      // {
+      //   projectImg:
+      //     "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-13_upc4ko.png",
+      //   projectLink: "https://prinscafe.com/",
+      //   technology: ["WordPress", "Elementor"],
+      // },
       {
         projectImg:
           "https://res.cloudinary.com/drdl4pdnx/image/upload/v1718085992/Portfolio-Website/wp-14_ix1nww.png",
