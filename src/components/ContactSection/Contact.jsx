@@ -24,7 +24,7 @@ const Contact = () => {
               <p className="mt-5 text-xl text-center">
                 <span className="font-semibold">Phone</span> <br />
                 <a href="tel:+918148526264" className="hover:underline">
-                  +91 81485 26264
+                  +91 8675748207
                 </a>
               </p>
             </div>
@@ -42,7 +42,7 @@ const Contact = () => {
                   href="mailto:manideveloper.designer@gmail.com"
                   className="hover:underline"
                 >
-                  manideveloper.designer@gmail.com
+                  manibct1817@gmail.com
                 </a>
               </p>
             </div>
